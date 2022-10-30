@@ -1,1 +1,1 @@
-New-Item -Path 'C:\Users\pronn\Desktop\123' -ItemType File
+New-Item -Path 'C:\Users\pronn\Desktop\123\hello_world.txt' -ItemType File
