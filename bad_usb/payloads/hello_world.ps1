@@ -1,1 +1,2 @@
-Write-Host 'Hello, World!'
+Write-Host 'Hello, World!';
+Start-Sleep -Seconds 10;
