@@ -1,1 +1,1 @@
-ew-Item -Path 'hello_world.txt' -ItemType File
+ew-Item -Path 'C:\Users\pronn\Desktop\123' -ItemType File
